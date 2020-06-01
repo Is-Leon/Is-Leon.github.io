@@ -1,16 +1,11 @@
-本项目仅仅是为了前来Fork的朋友保留的，原则上不再更新。本项目示范网站地址为：https://klovien.github.io 。
-
-三叶草国际语已更名为“格罗比言·全球语”，新的项目地址为：
-
-* 中文版：https://gitee.com/globien/globien
-* 英文版：https://github.com/globien/globien.github.io
+创建本项目主要是为了在互联网的浪潮里留下一些自己的个人记忆，仅用于学习交流。
 
 ### 致谢
 
-1. 这个模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢作者BY。 
-2. BY的模板应该是从这个模板 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 也一起感谢一下。
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
+1. 感谢原著提供技术框架支持。 
+2. 感谢GitHub提供学习平台。
+3. 感谢在这里相遇的每个人。
 
 ### License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/klovien/klovien.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://is-leon.github.io/)。
