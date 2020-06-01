@@ -6,6 +6,4 @@
 2. 感谢GitHub提供学习平台。
 3. 感谢在这里相遇的每个人。
 
-### License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://is-leon.github.io/)。
