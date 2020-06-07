@@ -12,7 +12,7 @@ github_repo: "https://is-leon.github.io/" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "欢迎来到我的博客！"
-sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-someone01.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -33,7 +33,7 @@ RSS: false
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: false                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
   repo: klovien.github.io    #仓库名称
